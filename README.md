@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasaneks&label=Profile%20views&color=0e75b6&style=flat" alt="hasaneks" /> </p>
 
-- 🔭 I’m currently working on [Ibanla](https://ibanla.com)
+- 🔭 I’m currently working on [Ikas](https://ikas.com)
 
 - 🌱 I’m currently learning **Jest and Enzyme**
 
